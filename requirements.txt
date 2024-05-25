@@ -1,0 +1,11 @@
+torch>=2.1
+einops
+numpy
+scipy
+matplotlib
+datasets
+tokenizers
+transformers
+composer
+biopython
+pillow
